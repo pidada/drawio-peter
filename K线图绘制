@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T08:44:19.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="nA6YOd17lhNS5uuaveGT" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T08:46:22.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="-Jou_Jma-bRwiOjj0UhQ" version="14.6.1" type="github">
   <diagram id="yHwiES-r3Gix45fFTrIh" name="Page-1">
     <mxGraphModel dx="788" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -69,9 +69,39 @@
         </mxCell>
         <mxCell id="gr5CeNFiYPAsuO2bZakp-33" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="80" as="sourcePoint" />
-            <mxPoint x="560" y="80" as="targetPoint" />
+            <mxPoint x="480" y="80" as="sourcePoint" />
+            <mxPoint x="550" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-34" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="159.17000000000002" as="sourcePoint" />
+            <mxPoint x="550" y="159.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-36" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="320" as="sourcePoint" />
+            <mxPoint x="550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-38" value="最高价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-39" value="收盘价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-40" value="开盘价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="229" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gr5CeNFiYPAsuO2bZakp-41" value="最低价" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="309" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
